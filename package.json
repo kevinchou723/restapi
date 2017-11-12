@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/kevinchou723/restapi.git"
   },
-  "author": "",
+  "author": "Kevin Chou",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/kevinchou723/restapi/issues"
